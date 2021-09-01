@@ -2,7 +2,6 @@
 #auth:wsg
 
 import time
-from selenium import webdriver
 
 # 计算 1 + 11 + 111 + 1111 + 11111 的和
 
